@@ -1,0 +1,5 @@
+![Original](image.png)
+![Gourad](image-1.png)
+![Pixel](image-2.png)
+![RGB](image-3.png)
+![Blanco y Negro](image-4.png)
